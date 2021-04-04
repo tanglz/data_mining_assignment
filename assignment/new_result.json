@@ -1,0 +1,2231 @@
+[
+  {
+    "title": "84C MoPic\u00a0(1989) ",
+    "imdb_id": "tt0096744",
+    "character_name_list": [
+      "LT",
+      "Easy",
+      "Pretty Boy",
+      "Hammer",
+      "Cracker"
+    ],
+    "genres": [
+      " Drama",
+      " War"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/84%20Charlie%20MoPic.txt",
+    "joy": 0.056320783593510865,
+    "positive": 0.15794306703397612,
+    "trust": 0.11202938475665748,
+    "negative": 0.19130700948882767,
+    "sadness": 0.06703397612488522,
+    "anger": 0.10376492194674013,
+    "fear": 0.12794612794612795,
+    "anticipation": 0.07346189164370982,
+    "surprise": 0.04591368227731864,
+    "disgust": 0.0642791551882461
+  },
+  {
+    "title": "Affliction\u00a0(1997) ",
+    "imdb_id": "tt0118564",
+    "character_name_list": [
+      "Wade Whitehouse",
+      "Jill Whitehouse",
+      "Gordon LaRiviere",
+      "Jack Hewitt",
+      "Chick Ward"
+    ],
+    "genres": [
+      " Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Affliction.txt",
+    "negative": 0.18329637841832963,
+    "anticipation": 0.09164818920916482,
+    "anger": 0.08647450110864745,
+    "disgust": 0.052106430155210645,
+    "fear": 0.10347376201034737,
+    "sadness": 0.090169992609017,
+    "positive": 0.14708056171470807,
+    "trust": 0.12305986696230599,
+    "joy": 0.06356245380635625,
+    "surprise": 0.059127864005912786
+  },
+  {
+    "title": "The African Queen\u00a0(1951) ",
+    "imdb_id": "tt0043265",
+    "character_name_list": [
+      "Charlie Allnutt",
+      "Rose Sayer",
+      "The Brother",
+      "Captain of Louisa",
+      "First Officer"
+    ],
+    "genres": [
+      " Adventure",
+      " Drama",
+      " Romance",
+      " War"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/African%20Queen,%20The%20(1951).txt",
+    "anticipation": 0.09404918340529379,
+    "joy": 0.0642012389712784,
+    "anger": 0.08447531443589262,
+    "negative": 0.18903698141543082,
+    "positive": 0.1807771728928102,
+    "sadness": 0.09761591890369814,
+    "trust": 0.09160878543270133,
+    "fear": 0.09968087103435329,
+    "surprise": 0.04974657405669232,
+    "disgust": 0.04880795945184907
+  },
+  {
+    "title": "All the King's Men\u00a0(1949) ",
+    "imdb_id": "tt0041113",
+    "character_name_list": [
+      "Willie Stark",
+      "Jack Burden",
+      "Anne Stanton",
+      "Tom Stark",
+      "Sadie Burke"
+    ],
+    "genres": [
+      " Drama",
+      " Film-Noir"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/All%20The%20King%27s%20Men%20(1949).txt",
+    "anticipation": 0.10338404222291214,
+    "negative": 0.15833592052157716,
+    "positive": 0.18565662837628066,
+    "trust": 0.13660353927351754,
+    "anger": 0.06768084445824278,
+    "fear": 0.07947842285004657,
+    "joy": 0.07420055883266066,
+    "disgust": 0.05464141570940702,
+    "sadness": 0.08040981061782056,
+    "surprise": 0.05960881713753493
+  },
+  {
+    "title": "Antitrust\u00a0(2001) ",
+    "imdb_id": "tt0218817",
+    "character_name_list": [
+      "Milo Hoffman",
+      "Lisa Calighan",
+      "Alice Poulson",
+      "Gary Winston",
+      "Bob Shrot"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Antitrust.txt",
+    "positive": 0.2023285084959094,
+    "anticipation": 0.09786028949024543,
+    "joy": 0.07583385777218377,
+    "trust": 0.10824417872876023,
+    "surprise": 0.05601006922592826,
+    "anger": 0.06513530522341095,
+    "fear": 0.11013215859030837,
+    "negative": 0.16236626809314034,
+    "sadness": 0.08401510383889238,
+    "disgust": 0.03807426054122089
+  },
+  {
+    "title": "The Assignment\u00a0(1997) ",
+    "imdb_id": "tt0118647",
+    "character_name_list": [
+      "Lt. Cmdr. Annibal Ramirez",
+      "Jack Shaw",
+      "Amos",
+      "Maura Ramirez",
+      "Carla"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Assignment,%20The.txt",
+    "sadness": 0.09101516919486581,
+    "disgust": 0.048035783741734735,
+    "negative": 0.1868922598210813,
+    "trust": 0.10560093348891482,
+    "positive": 0.1530532866588876,
+    "joy": 0.06612213146635551,
+    "anticipation": 0.08907040062232595,
+    "anger": 0.09607156748346947,
+    "surprise": 0.047257876312718786,
+    "fear": 0.11688059120964606
+  },
+  {
+    "title": "Autumn in New York\u00a0(2000) ",
+    "imdb_id": "tt0174480",
+    "character_name_list": [
+      "Will Keane",
+      "Charlotte Fielding",
+      "John",
+      "Dolly",
+      "Lisa Tyler"
+    ],
+    "genres": [
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Autumn%20In%20New%20York.txt",
+    "anger": 0.055085769509543366,
+    "fear": 0.07030683740033825,
+    "negative": 0.147378593863252,
+    "sadness": 0.08552790529113312,
+    "surprise": 0.07296448417492148,
+    "anticipation": 0.11476201981154868,
+    "joy": 0.10896351775791253,
+    "positive": 0.19980671659821214,
+    "trust": 0.09978255617298865,
+    "disgust": 0.0454215994201498
+  },
+  {
+    "title": "Bachelor Party\u00a0(1984) ",
+    "imdb_id": "tt0086927",
+    "character_name_list": [
+      "Rick Gassko",
+      "Debbie Thompson",
+      "Jay O'Neill",
+      "Ed Thompson",
+      "Mrs. Thompson"
+    ],
+    "genres": [
+      " Comedy"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bachelor%20Party.txt",
+    "positive": 0.2071111111111111,
+    "trust": 0.11259259259259259,
+    "disgust": 0.046814814814814816,
+    "sadness": 0.057185185185185186,
+    "anger": 0.07022222222222223,
+    "negative": 0.14044444444444446,
+    "anticipation": 0.11140740740740741,
+    "fear": 0.07111111111111111,
+    "joy": 0.11911111111111111,
+    "surprise": 0.064
+  },
+  {
+    "title": "Backdraft\u00a0(1991) ",
+    "imdb_id": "tt0101393",
+    "character_name_list": [
+      "Stephen McCaffrey",
+      "Brian McCaffrey",
+      "Donald Rimgale",
+      "Ronald Bartel",
+      "Jennifer Vaitkus"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Backdraft%20(1991).txt",
+    "joy": 0.06037643607919824,
+    "positive": 0.17159618675140553,
+    "negative": 0.1791737961378636,
+    "sadness": 0.07944267905157663,
+    "anger": 0.07626497188951356,
+    "fear": 0.13346370080664874,
+    "surprise": 0.0659985333659252,
+    "trust": 0.0967978489366903,
+    "disgust": 0.06355414324126131,
+    "anticipation": 0.07333170373991689
+  },
+  {
+    "title": "Bad Day at Black Rock\u00a0(1955) ",
+    "imdb_id": "tt0047849",
+    "character_name_list": [
+      "John J. Macreedy",
+      "Reno Smith",
+      "Liz Wirth",
+      "Tim Horn",
+      "Doc Velie"
+    ],
+    "genres": [
+      " Crime",
+      " Drama",
+      " Mystery",
+      " Thriller",
+      " Western"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bad%20Day%20At%20Black%20Rock.txt",
+    "anger": 0.07449768160741886,
+    "fear": 0.1125193199381762,
+    "negative": 0.2241112828438949,
+    "sadness": 0.10293663060278208,
+    "positive": 0.15146831530139104,
+    "trust": 0.08593508500772798,
+    "anticipation": 0.09397217928902628,
+    "joy": 0.04234930448222566,
+    "surprise": 0.05471406491499227,
+    "disgust": 0.05749613601236476
+  },
+  {
+    "title": "Bad Lieutenant\u00a0(1992) ",
+    "imdb_id": "tt0103759",
+    "character_name_list": [
+      "LT",
+      "LT's Son (#1)",
+      "LT's Son (#2)",
+      "LT's Wife",
+      "LT's Daughter"
+    ],
+    "genres": [
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bad%20Lieutenant.txt",
+    "anticipation": 0.10383944153577661,
+    "negative": 0.17539267015706805,
+    "joy": 0.07678883071553229,
+    "positive": 0.15008726003490402,
+    "surprise": 0.0636998254799302,
+    "trust": 0.10732984293193717,
+    "fear": 0.09860383944153578,
+    "sadness": 0.07984293193717278,
+    "anger": 0.0911867364746946,
+    "disgust": 0.053228621291448515
+  },
+  {
+    "title": "Bad Santa\u00a0(2003) ",
+    "imdb_id": "tt0307987",
+    "character_name_list": [
+      "Willie",
+      "Marcus",
+      "The Kid",
+      "Sue",
+      "Lois"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bad%20Santa.txt",
+    "negative": 0.17556241729157476,
+    "sadness": 0.060873400970445524,
+    "positive": 0.1773268636965152,
+    "surprise": 0.0599911777679753,
+    "trust": 0.10454344949272165,
+    "anticipation": 0.10189677988531098,
+    "joy": 0.09042787825319806,
+    "fear": 0.07851786501985002,
+    "disgust": 0.070577856197618,
+    "anger": 0.08028231142479048
+  },
+  {
+    "title": "Badlands\u00a0(1973) ",
+    "imdb_id": "tt0069762",
+    "character_name_list": [
+      "Kit",
+      "Holly",
+      "Father",
+      "Cato",
+      "Deputy"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Badlands.txt",
+    "anticipation": 0.09930486593843098,
+    "positive": 0.176266137040715,
+    "trust": 0.13902681231380337,
+    "joy": 0.07944389275074479,
+    "negative": 0.1618669314796425,
+    "sadness": 0.07100297914597815,
+    "fear": 0.0913604766633565,
+    "surprise": 0.06156901688182721,
+    "disgust": 0.047666335650446874,
+    "anger": 0.07249255213505462
+  },
+  {
+    "title": "Big Fish\u00a0(2003) ",
+    "imdb_id": "tt0319061",
+    "character_name_list": [
+      "Ed Bloom - Young",
+      "Ed Bloom - Senior",
+      "Will Bloom",
+      "Sandra Bloom - Senior",
+      "Jenny - Young"
+    ],
+    "genres": [
+      " Adventure",
+      " Drama",
+      " Fantasy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Big+Fish.txt",
+    "positive": 0.18695861405197306,
+    "trust": 0.1296920115495669,
+    "disgust": 0.049326275264677574,
+    "negative": 0.14653512993262752,
+    "sadness": 0.07459095283926853,
+    "anticipation": 0.1126082771896054,
+    "fear": 0.08926852743022137,
+    "joy": 0.09263715110683349,
+    "surprise": 0.06328200192492782,
+    "anger": 0.05510105871029836
+  },
+  {
+    "title": "Birthday Girl\u00a0(2001) ",
+    "imdb_id": "tt0188453",
+    "character_name_list": [
+      "Sophia, alias Nadia",
+      "John",
+      "Alexei",
+      "Yuri",
+      "Clare"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Birthday+Girl.txt",
+    "positive": 0.1785549930971008,
+    "anticipation": 0.10814542107685228,
+    "joy": 0.08375517717441325,
+    "surprise": 0.06948918545789232,
+    "trust": 0.10768522779567419,
+    "anger": 0.06304647952139898,
+    "fear": 0.08513575701794754,
+    "negative": 0.1767142199723884,
+    "sadness": 0.0800736309249885,
+    "disgust": 0.04739990796134377
+  },
+  {
+    "title": "Black Snake Moan\u00a0(2006) ",
+    "imdb_id": "tt0462200",
+    "character_name_list": [
+      "Lazarus",
+      "Rae",
+      "Ronnie",
+      "Angela",
+      "Reverend R.L."
+    ],
+    "genres": [
+      " Drama",
+      " Music"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Black%20Snake%20Moan.txt",
+    "joy": 0.08676893576222436,
+    "positive": 0.16586768935762225,
+    "trust": 0.09587727708533078,
+    "fear": 0.0961169702780441,
+    "negative": 0.18791946308724833,
+    "sadness": 0.09324065196548419,
+    "anticipation": 0.08437200383509108,
+    "disgust": 0.06399808245445829,
+    "anger": 0.07885906040268456,
+    "surprise": 0.04697986577181208
+  },
+  {
+    "title": "Blade: Trinity\u00a0(2004) ",
+    "imdb_id": "tt0359013",
+    "character_name_list": [
+      "Blade",
+      "Whistler",
+      "Drake",
+      "Abigail Whistler",
+      "Hannibal King"
+    ],
+    "genres": [
+      " Action",
+      " Adventure",
+      " Fantasy",
+      " Horror",
+      " Sci-Fi"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/BladeTrinity.txt"
+  },
+  {
+    "title": "Bodies, Rest & Motion\u00a0(1993) ",
+    "imdb_id": "tt0106447",
+    "character_name_list": [
+      "Carol",
+      "Beth",
+      "Nick",
+      "Sid",
+      "Elizabeth"
+    ],
+    "genres": [
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bodies,%20Rest%20&%20Motion.txt",
+    "negative": 0.18390219052470708,
+    "joy": 0.09628120224146715,
+    "positive": 0.18746816097809477,
+    "trust": 0.09933774834437085,
+    "anticipation": 0.10392256749872644,
+    "surprise": 0.06469689251146205,
+    "sadness": 0.08660213958227203,
+    "fear": 0.0748853795211411,
+    "anger": 0.06011207335710647,
+    "disgust": 0.04279164544065207
+  },
+  {
+    "title": "The Boondock Saints\u00a0(1999) ",
+    "imdb_id": "tt0144117",
+    "character_name_list": [
+      "Paul Smecker",
+      "Connor MacManus",
+      "Murphy MacManus",
+      "Rocco",
+      "Il Duce"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Boondock%20Saints,%20The.txt",
+    "anticipation": 0.08312128922815945,
+    "joy": 0.06912637828668362,
+    "positive": 0.15754877014419,
+    "trust": 0.10390161153519932,
+    "surprise": 0.058736217133163696,
+    "negative": 0.18405428329092452,
+    "anger": 0.09838846480067855,
+    "sadness": 0.08163698049194232,
+    "fear": 0.09563189143341815,
+    "disgust": 0.06785411365564037
+  },
+  {
+    "title": "The Bourne Identity\u00a0(2002) ",
+    "imdb_id": "tt0258463",
+    "character_name_list": [
+      "Bourne",
+      "Marie",
+      "Conklin",
+      "The Professor",
+      "Ward Abbott"
+    ],
+    "genres": [
+      " Action",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bourne+Identity,+The.txt",
+    "anger": 0.09637268847795163,
+    "fear": 0.12126600284495022,
+    "negative": 0.19665718349928876,
+    "sadness": 0.09957325746799431,
+    "positive": 0.15753911806543386,
+    "anticipation": 0.0814366998577525,
+    "disgust": 0.04836415362731152,
+    "surprise": 0.05725462304409673,
+    "joy": 0.044096728307254626,
+    "trust": 0.09743954480796586
+  },
+  {
+    "title": "The Bourne Supremacy\u00a0(2004) ",
+    "imdb_id": "tt0372183",
+    "character_name_list": [
+      "Jason Bourne",
+      "Marie",
+      "Ward Abbott",
+      "Nicky",
+      "Kirill"
+    ],
+    "genres": [
+      " Action",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bourne+Supremacy,+The.txt",
+    "trust": 0.10180623973727422,
+    "fear": 0.11042692939244664,
+    "anger": 0.08087027914614121,
+    "negative": 0.1752873563218391,
+    "anticipation": 0.11042692939244664,
+    "positive": 0.1720032840722496,
+    "sadness": 0.09113300492610837,
+    "disgust": 0.046798029556650245,
+    "joy": 0.05870279146141215,
+    "surprise": 0.052545155993431854
+  },
+  {
+    "title": "Braveheart\u00a0(1995) ",
+    "imdb_id": "tt0112573",
+    "character_name_list": [
+      "Young William",
+      "Malcolm Wallace",
+      "John Wallace",
+      "Campbell",
+      "MacClannough"
+    ],
+    "genres": [
+      " Biography",
+      " Drama",
+      " History",
+      " War"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Braveheart.txt",
+    "joy": 0.07146908678389109,
+    "positive": 0.1722442805823407,
+    "negative": 0.17526942711287577,
+    "trust": 0.12270750614482889,
+    "sadness": 0.08092266969181319,
+    "anger": 0.08716203441104178,
+    "disgust": 0.04688977122329363,
+    "fear": 0.1106069200226886,
+    "anticipation": 0.08016638305917943,
+    "surprise": 0.05256192096804689
+  },
+  {
+    "title": "Bruce Almighty\u00a0(2003) ",
+    "imdb_id": "tt0315327",
+    "character_name_list": [
+      "Bruce Nolan",
+      "God",
+      "Grace Connelly",
+      "Jack Baylor",
+      "Susan Ortega"
+    ],
+    "genres": [
+      " Comedy",
+      " Fantasy"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bruce%20Almighty.txt",
+    "trust": 0.1224801466096518,
+    "negative": 0.13225412339645692,
+    "anger": 0.05864386072083079,
+    "disgust": 0.04123396456933415,
+    "fear": 0.08094074526572999,
+    "sadness": 0.06078191814294441,
+    "positive": 0.2196090409285278,
+    "anticipation": 0.10720830788026879,
+    "joy": 0.1078191814294441,
+    "surprise": 0.06902871105681124
+  },
+  {
+    "title": "Bull Durham\u00a0(1988) ",
+    "imdb_id": "tt0094812",
+    "character_name_list": [
+      "Crash Davis",
+      "Annie Savoy",
+      "Ebby Calvin 'Nuke' LaLoosh",
+      "Skip",
+      "Larry"
+    ],
+    "genres": [
+      " Comedy",
+      " Romance",
+      " Sport"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Bull+Durham.txt",
+    "positive": 0.18157661647475642,
+    "trust": 0.10274579273693533,
+    "anticipation": 0.0912311780336581,
+    "joy": 0.0826690286389135,
+    "fear": 0.07646885149099499,
+    "anger": 0.09506938293475052,
+    "disgust": 0.06554472984942426,
+    "negative": 0.1753764393268379,
+    "sadness": 0.07174490699734277,
+    "surprise": 0.05757307351638618
+  },
+  {
+    "title": "The Butterfly Effect\u00a0(2004) ",
+    "imdb_id": "tt0289879",
+    "character_name_list": [
+      "Evan",
+      "Andrea",
+      "Kayleigh",
+      "Lenny",
+      "Tommy"
+    ],
+    "genres": [
+      " Drama",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Butterfly+Effect,+The.txt",
+    "sadness": 0.09701869631126832,
+    "fear": 0.09398686205154118,
+    "negative": 0.18367862556846892,
+    "anger": 0.0717534108135422,
+    "surprise": 0.06543708943911067,
+    "anticipation": 0.09019706922688227,
+    "positive": 0.1571500757958565,
+    "trust": 0.09802930773117736,
+    "joy": 0.07579585649317837,
+    "disgust": 0.06695300656897422
+  },
+  {
+    "title": "Charade\u00a0(1963) ",
+    "imdb_id": "tt0056923",
+    "character_name_list": [
+      "Peter Joshua",
+      "Regina Lampert",
+      "Hamilton Bartholomew",
+      "Tex Panthollow",
+      "Herman Scobie"
+    ],
+    "genres": [
+      " Comedy",
+      " Mystery",
+      " Romance",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Charade.txt",
+    "anger": 0.07593553673859602,
+    "fear": 0.09013930620049167,
+    "negative": 0.16252390057361377,
+    "sadness": 0.07812073204042612,
+    "anticipation": 0.10079213329691342,
+    "positive": 0.18437585359191477,
+    "joy": 0.08085222616771374,
+    "trust": 0.10871346626604753,
+    "surprise": 0.07211144496039333,
+    "disgust": 0.04643540016388965
+  },
+  {
+    "title": "The Cincinnati Kid\u00a0(1965) ",
+    "imdb_id": "tt0059037",
+    "character_name_list": [
+      "The Cincinnati Kid",
+      "Melba",
+      "Shooter",
+      "Christian",
+      "Lancey Howard"
+    ],
+    "genres": [
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Cincinnati%20Kid,%20The.txt",
+    "positive": 0.22380952380952382,
+    "trust": 0.11696428571428572,
+    "anticipation": 0.14166666666666666,
+    "anger": 0.06607142857142857,
+    "fear": 0.06369047619047619,
+    "negative": 0.12202380952380952,
+    "joy": 0.0943452380952381,
+    "surprise": 0.07708333333333334,
+    "sadness": 0.05476190476190476,
+    "disgust": 0.03958333333333333
+  },
+  {
+    "title": "Code of Silence\u00a0(1985) ",
+    "imdb_id": "tt0088936",
+    "character_name_list": [
+      "Eddie Cusack",
+      "Luis Comacho",
+      "Commander Kates",
+      "Tony Luna",
+      "Felix Scalese"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Code%20Of%20Silence.txt",
+    "negative": 0.18263138278046961,
+    "positive": 0.18263138278046961,
+    "anticipation": 0.07864330972791651,
+    "joy": 0.05180767797241893,
+    "surprise": 0.049571375326127466,
+    "trust": 0.11442415206857995,
+    "disgust": 0.05590756615728662,
+    "fear": 0.11703317182258666,
+    "sadness": 0.07156168468132687,
+    "anger": 0.09578829668281774
+  },
+  {
+    "title": "Cold Mountain\u00a0(2003) ",
+    "imdb_id": "tt0159365",
+    "character_name_list": [
+      "Inman",
+      "Ada Monroe",
+      "Ruby Thewes",
+      "Maddy",
+      "Stobrod Thewes"
+    ],
+    "genres": [
+      " Adventure",
+      " Drama",
+      " History",
+      " Romance",
+      " War"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Cold%20Mountain.txt",
+    "sadness": 0.08732673267326732,
+    "negative": 0.1782178217821782,
+    "anger": 0.0807920792079208,
+    "fear": 0.10475247524752475,
+    "positive": 0.159009900990099,
+    "disgust": 0.061386138613861385,
+    "anticipation": 0.09069306930693069,
+    "joy": 0.07940594059405941,
+    "surprise": 0.051089108910891086,
+    "trust": 0.10732673267326732
+  },
+  {
+    "title": "Confidence\u00a0(2003) ",
+    "imdb_id": "tt0310910",
+    "character_name_list": [
+      "Jake Vig",
+      "Lily",
+      "Travis",
+      "Lionel Dolby",
+      "Big Al"
+    ],
+    "genres": [
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Confidence.txt",
+    "negative": 0.14250207125103562,
+    "disgust": 0.05247169290251312,
+    "sadness": 0.06628003314001657,
+    "positive": 0.16846175089754212,
+    "anticipation": 0.10770505385252693,
+    "joy": 0.09113504556752279,
+    "surprise": 0.06738470035901685,
+    "trust": 0.1267605633802817,
+    "anger": 0.08588787627727147,
+    "fear": 0.09141121237227286
+  },
+  {
+    "title": "The Cooler\u00a0(2003) ",
+    "imdb_id": "tt0318374",
+    "character_name_list": [
+      "Bernie Lootz",
+      "Shelly Kaplow",
+      "Natalie Belisario",
+      "Mikey",
+      "Larry Sokolov"
+    ],
+    "genres": [
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Cooler,%20The.txt",
+    "positive": 0.18198874296435272,
+    "anticipation": 0.10944340212632896,
+    "joy": 0.09255784865540963,
+    "trust": 0.10600375234521577,
+    "anger": 0.07035647279549719,
+    "fear": 0.0825515947467167,
+    "negative": 0.15728580362726705,
+    "sadness": 0.07754846779237023,
+    "surprise": 0.07629768605378362,
+    "disgust": 0.04596622889305816
+  },
+  {
+    "title": "Crash\u00a0(1996) ",
+    "imdb_id": "tt0115964",
+    "character_name_list": [
+      "James Ballard",
+      "Helen Remington",
+      "Vaughan",
+      "Catherine Ballard",
+      "Gabrielle"
+    ],
+    "genres": [
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Crash+(1996).txt",
+    "negative": 0.19168994413407822,
+    "positive": 0.16096368715083798,
+    "fear": 0.11941340782122906,
+    "sadness": 0.0939245810055866,
+    "trust": 0.10719273743016759,
+    "anticipation": 0.08798882681564246,
+    "anger": 0.07262569832402235,
+    "surprise": 0.06075418994413408,
+    "joy": 0.05027932960893855,
+    "disgust": 0.055167597765363126
+  },
+  {
+    "title": "Croupier\u00a0(1998) ",
+    "imdb_id": "tt0159382",
+    "character_name_list": [
+      "Jack Manfred",
+      "Giles Cremorne",
+      "Jack Snr.",
+      "David Reynolds",
+      "Car Dealer"
+    ],
+    "genres": [
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Croupier.txt",
+    "anticipation": 0.11751580513201934,
+    "anger": 0.0721457791000372,
+    "disgust": 0.05280773521755299,
+    "fear": 0.07698029007065824,
+    "joy": 0.0881368538490145,
+    "negative": 0.1550762365191521,
+    "positive": 0.18631461509854966,
+    "surprise": 0.06619561175158051,
+    "trust": 0.11937523242841205,
+    "sadness": 0.06545184083302343
+  },
+  {
+    "title": "Deep Cover\u00a0(1992) ",
+    "imdb_id": "tt0104073",
+    "character_name_list": [
+      "Bijoux",
+      "Guzman",
+      "Policeman",
+      "Rapper's Musician",
+      "Congresswoman"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Deep%20Cover.txt",
+    "negative": 0.16967126193001061,
+    "sadness": 0.08271474019088017,
+    "anger": 0.09597030752916225,
+    "disgust": 0.05567338282078473,
+    "anticipation": 0.08907741251325557,
+    "joy": 0.07979851537645812,
+    "positive": 0.15641569459172852,
+    "trust": 0.10869565217391304,
+    "surprise": 0.05328738069989396,
+    "fear": 0.10869565217391304
+  },
+  {
+    "title": "Donnie Brasco\u00a0(1997) ",
+    "imdb_id": "tt0119008",
+    "character_name_list": [
+      "Lefty",
+      "Donnie",
+      "Sonny",
+      "Nicky",
+      "Paulie"
+    ],
+    "genres": [
+      " Biography",
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Donnie%20Brasco.txt",
+    "trust": 0.1110233109442908,
+    "positive": 0.18095614381667324,
+    "sadness": 0.075069142631371,
+    "negative": 0.17700513630975898,
+    "fear": 0.09205847491110233,
+    "anger": 0.07546424338206242,
+    "anticipation": 0.09996048992493085,
+    "surprise": 0.061240616357171075,
+    "disgust": 0.0450414855788226,
+    "joy": 0.08218095614381667
+  },
+  {
+    "title": "The Doors\u00a0(1991) ",
+    "imdb_id": "tt0101761",
+    "character_name_list": [
+      "Jim Morrison",
+      "Pamela Courson",
+      "Ray Manzarek",
+      "Robby Krieger",
+      "John Densmore"
+    ],
+    "genres": [
+      " Biography",
+      " Drama",
+      " Music"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Doors,%20The.txt",
+    "anticipation": 0.09300147196574335,
+    "trust": 0.08162719122173157,
+    "fear": 0.09862170480396093,
+    "negative": 0.17636825906597084,
+    "sadness": 0.09313528703331996,
+    "joy": 0.09768499933092466,
+    "positive": 0.1613809714973906,
+    "surprise": 0.06061822561220393,
+    "anger": 0.07908470493777599,
+    "disgust": 0.058477184530978187
+  },
+  {
+    "title": "Double Indemnity\u00a0(1944) ",
+    "imdb_id": "tt0036775",
+    "character_name_list": [
+      "Walter Neff",
+      "Phyllis Dietrichson",
+      "Barton Keyes",
+      "Mr. Jackson",
+      "Lola Dietrichson"
+    ],
+    "genres": [
+      " Crime",
+      " Drama",
+      " Film-Noir",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Double%20Indemnity.txt",
+    "anticipation": 0.09910141206675224,
+    "fear": 0.08780487804878048,
+    "negative": 0.1637997432605905,
+    "trust": 0.11732991014120668,
+    "surprise": 0.06315789473684211,
+    "positive": 0.179204107830552,
+    "sadness": 0.10423620025673941,
+    "joy": 0.07265725288831835,
+    "anger": 0.07034659820282413,
+    "disgust": 0.04236200256739409
+  },
+  {
+    "title": "Dragonslayer\u00a0(1981) ",
+    "imdb_id": "tt0082288",
+    "character_name_list": [
+      "Galen",
+      "Valerian",
+      "Ulrich",
+      "Tyrian",
+      "Casiodorus Rex"
+    ],
+    "genres": [
+      " Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Dragonslayer.txt",
+    "anticipation": 0.09831538249102457,
+    "positive": 0.18392709196354598,
+    "disgust": 0.04418668876001105,
+    "negative": 0.17315658657829328,
+    "trust": 0.10190555095277548,
+    "sadness": 0.07566970450151891,
+    "anger": 0.06462303231151616,
+    "joy": 0.07042253521126761,
+    "surprise": 0.06517536592101629,
+    "fear": 0.12261806130903065
+  },
+  {
+    "title": "Even Cowgirls Get the Blues\u00a0(1993) ",
+    "imdb_id": "tt0106834",
+    "character_name_list": [
+      "Sissy Hankshaw",
+      "Delores Del Ruby",
+      "The Chink",
+      "Miss Adrian",
+      "Julian Gitche"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Romance",
+      " Western"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Even%20Cowgirls%20Get%20The%20Blues.txt",
+    "negative": 0.16841759684832566,
+    "positive": 0.20420223243598162,
+    "anticipation": 0.09061063690085358,
+    "fear": 0.09652002626395273,
+    "joy": 0.0840446487196323,
+    "trust": 0.11326329612606698,
+    "anger": 0.06336178594878529,
+    "sadness": 0.07616546290216678,
+    "surprise": 0.056139198949441894,
+    "disgust": 0.04727511490479317
+  },
+  {
+    "title": "Event Horizon\u00a0(1997) ",
+    "imdb_id": "tt0119081",
+    "character_name_list": [
+      "Captain Miller",
+      "Dr. William Weir",
+      "Peters, Med Tech",
+      "Lt. Starck",
+      "Cooper"
+    ],
+    "genres": [
+      " Horror",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Event%20Horizon.txt",
+    "fear": 0.12105445716267776,
+    "sadness": 0.10752688172043011,
+    "negative": 0.18314255983350677,
+    "positive": 0.16926812348248352,
+    "anticipation": 0.10509885535900104,
+    "anger": 0.06555671175858481,
+    "joy": 0.046826222684703434,
+    "surprise": 0.04821366631980576,
+    "disgust": 0.04890738813735692,
+    "trust": 0.10440513354144988
+  },
+  {
+    "title": "Fatal Instinct\u00a0(1993) ",
+    "imdb_id": "tt0106873",
+    "character_name_list": [
+      "Ned Ravine",
+      "Laura Lincolnberry",
+      "Lana Ravine",
+      "Lola Cain",
+      "Frank Kelbo"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Fatal%20Instinct.txt",
+    "positive": 0.15489130434782608,
+    "anger": 0.09313241106719368,
+    "fear": 0.11536561264822134,
+    "negative": 0.1956521739130435,
+    "sadness": 0.08423913043478261,
+    "surprise": 0.05657114624505929,
+    "joy": 0.059041501976284584,
+    "anticipation": 0.08695652173913043,
+    "trust": 0.09881422924901186,
+    "disgust": 0.05533596837944664
+  },
+  {
+    "title": "Music of the Heart\u00a0(1999) ",
+    "imdb_id": "tt0166943",
+    "character_name_list": [
+      "Roberta",
+      "Assunta",
+      "Lexi at 5",
+      "Nick at 7",
+      "Supervisor"
+    ],
+    "genres": [
+      " Drama",
+      " Music"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Music%20Of%20The%20Heart.txt",
+    "positive": 0.2138175860185691,
+    "fear": 0.07127252867285637,
+    "trust": 0.11769524849808848,
+    "joy": 0.10677225559803386,
+    "sadness": 0.08656471873293282,
+    "anticipation": 0.12124522119060623,
+    "surprise": 0.05379574003276898,
+    "negative": 0.13462588749317314,
+    "anger": 0.05324959038776625,
+    "disgust": 0.0409612233752048
+  },
+  {
+    "title": "Frances\u00a0(1982) ",
+    "imdb_id": "tt0083967",
+    "character_name_list": [
+      "Frances Farmer",
+      "Harry York",
+      "Lillian Farmer",
+      "Ernest Farmer",
+      "Dick Steele"
+    ],
+    "genres": [
+      " Biography",
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Frances.txt"
+  },
+  {
+    "title": "Frankenstein\u00a0(1994) ",
+    "imdb_id": "tt0109836",
+    "character_name_list": [
+      "Creature",
+      "Victor",
+      "Henry",
+      "Elizabeth",
+      "Walton"
+    ],
+    "genres": [
+      " Drama",
+      " Horror",
+      " Romance",
+      " Sci-Fi"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Frankenstein+(1994).txt",
+    "positive": 0.162947937795808,
+    "anger": 0.08265720081135902,
+    "fear": 0.10818120351588911,
+    "negative": 0.18542934415145368,
+    "sadness": 0.08569979716024341,
+    "joy": 0.07572684246112238,
+    "trust": 0.08671399594320486,
+    "anticipation": 0.08688302907369845,
+    "disgust": 0.07217714672075727,
+    "surprise": 0.05358350236646383
+  },
+  {
+    "title": "Ghost\u00a0(1990) ",
+    "imdb_id": "tt0099653",
+    "character_name_list": [
+      "Sam Wheat",
+      "Molly Jensen",
+      "Carl Bruner",
+      "Elevator Man",
+      "Elevator Man"
+    ],
+    "genres": [
+      " Drama",
+      " Fantasy",
+      " Romance",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Ghost%20(1990).txt",
+    "negative": 0.18845456898783328,
+    "fear": 0.11493657778928294,
+    "anticipation": 0.0851669686771939,
+    "joy": 0.06834066787470877,
+    "positive": 0.16386228319958582,
+    "trust": 0.09552161532487703,
+    "surprise": 0.0680818017085167,
+    "anger": 0.08231944084908102,
+    "sadness": 0.08206057468288895,
+    "disgust": 0.05125550090603158
+  },
+  {
+    "title": "Grand Hotel\u00a0(1932) ",
+    "imdb_id": "tt0022958",
+    "character_name_list": [
+      "Grusinskaya",
+      "Baron Felix von Geigern",
+      "Flaemmchen",
+      "General Director Preysing",
+      "Otto Kringelein"
+    ],
+    "genres": [
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Grand%20Hotel.txt",
+    "positive": 0.20082967301122498,
+    "trust": 0.11078574914592484,
+    "anticipation": 0.12225475841874085,
+    "fear": 0.07540263543191801,
+    "negative": 0.14494875549048317,
+    "joy": 0.09809663250366032,
+    "disgust": 0.039775500244021475,
+    "anger": 0.054660810151293315,
+    "surprise": 0.07979502196193265,
+    "sadness": 0.07345046364080039
+  },
+  {
+    "title": "Hard Rain\u00a0(1998) ",
+    "imdb_id": "tt0120696",
+    "character_name_list": [
+      "Jim",
+      "Tom",
+      "Sheriff",
+      "Karen",
+      "Charlie"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Hard%20Rain.txt",
+    "anger": 0.10744089012517385,
+    "anticipation": 0.10848400556328233,
+    "disgust": 0.044853963838664815,
+    "fear": 0.12969401947148818,
+    "joy": 0.06641168289290682,
+    "positive": 0.13456189151599443,
+    "trust": 0.10013908205841446,
+    "negative": 0.1790681502086231,
+    "sadness": 0.0691933240611961,
+    "surprise": 0.06015299026425591
+  },
+  {
+    "title": "Hellboy\u00a0(2004) ",
+    "imdb_id": "tt0167190",
+    "character_name_list": [
+      "Hellboy",
+      "Trevor \"Broom\" Bruttenholm",
+      "Liz Sherman",
+      "John Myers",
+      "Grigori Rasputin"
+    ],
+    "genres": [
+      " Action",
+      " Fantasy",
+      " Horror"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Hellboy.txt",
+    "anger": 0.09170174383644017,
+    "disgust": 0.06163559831629585,
+    "fear": 0.11846061334936861,
+    "negative": 0.21076368009621166,
+    "sadness": 0.08869512928442573,
+    "positive": 0.16446181599518941,
+    "trust": 0.0898977751052315,
+    "anticipation": 0.07456404088995791,
+    "joy": 0.057125676488274206,
+    "surprise": 0.04269392663860493
+  },
+  {
+    "title": "Henry Fool\u00a0(1997) ",
+    "imdb_id": "tt0122529",
+    "character_name_list": [
+      "Henry Fool",
+      "Simon Grim",
+      "Fay Grim",
+      "Mary",
+      "Mr. Deng"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Henry%20Fool.txt",
+    "disgust": 0.07003257328990228,
+    "negative": 0.17046688382193267,
+    "trust": 0.11183496199782844,
+    "anger": 0.0741042345276873,
+    "fear": 0.08197611292073832,
+    "sadness": 0.08713355048859935,
+    "surprise": 0.0494028230184582,
+    "anticipation": 0.08686210640608034,
+    "joy": 0.08251900108577633,
+    "positive": 0.18566775244299674
+  },
+  {
+    "title": "High Fidelity\u00a0(2000) ",
+    "imdb_id": "tt0146882",
+    "character_name_list": [
+      "Rob Gordon",
+      "Laura",
+      "Dick",
+      "Barry Judd",
+      "Marie De Salle"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Music",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/High%20Fidelity.txt",
+    "positive": 0.19273515857956086,
+    "joy": 0.09568988885876932,
+    "sadness": 0.09108159392789374,
+    "anger": 0.0683111954459203,
+    "disgust": 0.05719707237733803,
+    "fear": 0.06478720520466251,
+    "negative": 0.14827866630523176,
+    "anticipation": 0.12035782054757387,
+    "surprise": 0.05746814854974248,
+    "trust": 0.10409325020330713
+  },
+  {
+    "title": "His Girl Friday\u00a0(1940) ",
+    "imdb_id": "tt0032599",
+    "character_name_list": [
+      "Walter Burns",
+      "Hildy Johnson",
+      "Bruce Baldwin",
+      "Sheriff Hartwell",
+      "Murphy"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/His%20Girl%20Friday.txt",
+    "anticipation": 0.10951074531321445,
+    "negative": 0.15294924554183814,
+    "trust": 0.12528577960676726,
+    "positive": 0.17078189300411523,
+    "disgust": 0.04412437128486511,
+    "surprise": 0.06081390032007316,
+    "anger": 0.08139003200731595,
+    "joy": 0.07681755829903979,
+    "fear": 0.1056241426611797,
+    "sadness": 0.07270233196159122
+  },
+  {
+    "title": "Hope and Glory\u00a0(1987) ",
+    "imdb_id": "tt0093209",
+    "character_name_list": [
+      "Bill",
+      "Sue",
+      "Grace",
+      "Clive",
+      "Dawn"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Hope+And+Glory.txt",
+    "anticipation": 0.09264110502500596,
+    "joy": 0.0945463205525125,
+    "positive": 0.18671112169564183,
+    "surprise": 0.06072874493927125,
+    "trust": 0.09383186472969755,
+    "negative": 0.1748035246487259,
+    "disgust": 0.04167658966420576,
+    "sadness": 0.08192426768278162,
+    "fear": 0.09716599190283401,
+    "anger": 0.07597046915932365
+  },
+  {
+    "title": "The Hospital\u00a0(1971) ",
+    "imdb_id": "tt0067217",
+    "character_name_list": [
+      "Dr. Herbert Bock",
+      "Barbara Drummond",
+      "Drummond",
+      "Dr. Welbeck",
+      "Dr. Sundstrom"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Mystery"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Hospital,%20The.txt",
+    "anticipation": 0.09793388429752066,
+    "fear": 0.10826446280991736,
+    "positive": 0.181198347107438,
+    "trust": 0.12582644628099174,
+    "negative": 0.16363636363636364,
+    "sadness": 0.09710743801652892,
+    "joy": 0.06260330578512396,
+    "anger": 0.06673553719008264,
+    "disgust": 0.05,
+    "surprise": 0.046694214876033056
+  },
+  {
+    "title": "House of 1000 Corpses\u00a0(2003) ",
+    "imdb_id": "tt0251736",
+    "character_name_list": [
+      "Killer Karl",
+      "Sheriff Frank Huston",
+      "Mother Firefly",
+      "Denise Willis",
+      "Gerry Ober"
+    ],
+    "genres": [
+      " Horror"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/House%20Of%201000%20Corpses.txt",
+    "fear": 0.0992074337250615,
+    "negative": 0.19130910084722602,
+    "disgust": 0.07952992620934682,
+    "sadness": 0.08690899152773982,
+    "anger": 0.08554249795025963,
+    "surprise": 0.05247335337523914,
+    "trust": 0.09838753757857338,
+    "joy": 0.0726974583219459,
+    "positive": 0.15386717682426893,
+    "anticipation": 0.08007652364033889
+  },
+  {
+    "title": "Human Nature\u00a0(2001) ",
+    "imdb_id": "tt0219822",
+    "character_name_list": [
+      "Lila Jute",
+      "Puff",
+      "Dr. Nathan Bronfman",
+      "Police Detective",
+      "Police Detective"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Human+Nature.txt",
+    "surprise": 0.06023102310231023,
+    "trust": 0.11798679867986799,
+    "fear": 0.06958195819581958,
+    "anger": 0.05500550055005501,
+    "negative": 0.15401540154015403,
+    "sadness": 0.07150715071507151,
+    "positive": 0.20324532453245325,
+    "joy": 0.10946094609460946,
+    "anticipation": 0.09433443344334433,
+    "disgust": 0.06463146314631463
+  },
+  {
+    "title": "I Am Sam\u00a0(2001) ",
+    "imdb_id": "tt0277027",
+    "character_name_list": [
+      "Sam Dawson",
+      "Rita",
+      "Lucy",
+      "Annie",
+      "Margaret Calgrove"
+    ],
+    "genres": [
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/I%20Am%20Sam.txt",
+    "anticipation": 0.11793611793611794,
+    "joy": 0.10319410319410319,
+    "positive": 0.20202020202020202,
+    "trust": 0.12885612885612885,
+    "sadness": 0.07507507507507508,
+    "negative": 0.1334971334971335,
+    "anger": 0.06497406497406498,
+    "fear": 0.07398307398307398,
+    "surprise": 0.05814905814905815,
+    "disgust": 0.042315042315042316
+  },
+  {
+    "title": "I'll Do Anything\u00a0(1994) ",
+    "imdb_id": "tt0110097",
+    "character_name_list": [
+      "Matt Hobbs",
+      "Jeannie Hobbs",
+      "Burke Adler",
+      "Nan Mulhanney",
+      "Cathy Breslow"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/I%27ll%20Do%20Anything%20(1994).txt",
+    "positive": 0.20568766854621232,
+    "negative": 0.14684971806815397,
+    "sadness": 0.08188281441529786,
+    "anticipation": 0.10983084089237559,
+    "joy": 0.09389556263790144,
+    "surprise": 0.06423142927188036,
+    "trust": 0.11399852905123804,
+    "anger": 0.06668301054179947,
+    "fear": 0.07085069870066192,
+    "disgust": 0.04608972787447904
+  },
+  {
+    "title": "Intolerable Cruelty\u00a0(2003) ",
+    "imdb_id": "tt0138524",
+    "character_name_list": [
+      "Miles",
+      "Marylin",
+      "Donovan Donaly",
+      "Gus Petch",
+      "Rex Rexroth"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Intolerable%20Cruelty.txt",
+    "negative": 0.14496314496314497,
+    "sadness": 0.07651807651807652,
+    "anger": 0.06739206739206739,
+    "disgust": 0.04141804141804142,
+    "fear": 0.07862407862407862,
+    "positive": 0.19866619866619867,
+    "trust": 0.11723411723411724,
+    "anticipation": 0.11196911196911197,
+    "joy": 0.10600210600210601,
+    "surprise": 0.057213057213057215
+  },
+  {
+    "title": "It Happened One Night\u00a0(1934) ",
+    "imdb_id": "tt0025316",
+    "character_name_list": [
+      "Peter Warne",
+      "Ellie Andrews",
+      "Alexander Andrews",
+      "Oscar Shapeley",
+      "King Westley"
+    ],
+    "genres": [
+      " Comedy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/It%20Happened%20One%20Night.txt",
+    "anticipation": 0.11055175191300846,
+    "joy": 0.09907370116794201,
+    "positive": 0.20418848167539266,
+    "trust": 0.11135722915827628,
+    "anger": 0.056786145791381394,
+    "disgust": 0.04853000402738623,
+    "negative": 0.15827627869512687,
+    "fear": 0.06584776480064439,
+    "sadness": 0.06987515102698348,
+    "surprise": 0.07551349174385824
+  },
+  {
+    "title": "It Happened One Night\u00a0(1934) ",
+    "imdb_id": "tt0025316",
+    "character_name_list": [
+      "Peter Warne",
+      "Ellie Andrews",
+      "Alexander Andrews",
+      "Oscar Shapeley",
+      "King Westley"
+    ],
+    "genres": [
+      " Comedy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/It+Happened+One+Night.txt",
+    "anticipation": 0.11055175191300846,
+    "joy": 0.09907370116794201,
+    "positive": 0.20418848167539266,
+    "trust": 0.11135722915827628,
+    "anger": 0.056786145791381394,
+    "disgust": 0.04853000402738623,
+    "negative": 0.15827627869512687,
+    "fear": 0.06584776480064439,
+    "sadness": 0.06987515102698348,
+    "surprise": 0.07551349174385824
+  },
+  {
+    "title": "The Jackie Robinson Story\u00a0(1950) ",
+    "imdb_id": "tt0042609",
+    "character_name_list": [
+      "Jackie Robinson",
+      "Rae Robinson",
+      "Branch Rickey",
+      "Jackie's Mother",
+      "Clay Hopper"
+    ],
+    "genres": [
+      " Biography",
+      " Drama",
+      " Sport"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Jackie%20Robinson%20Story,%20The.txt",
+    "negative": 0.14253897550111358,
+    "sadness": 0.05917912822144448,
+    "anger": 0.06140629971364938,
+    "anticipation": 0.1256761056315622,
+    "positive": 0.2134902958956411,
+    "trust": 0.1390391345847916,
+    "joy": 0.0967228762328985,
+    "fear": 0.06490614062997137,
+    "surprise": 0.06363347120585428,
+    "disgust": 0.0334075723830735
+  },
+  {
+    "title": "Juno\u00a0(2007) ",
+    "imdb_id": "tt0467406",
+    "character_name_list": [
+      "Juno MacGuff",
+      "Paulie Bleeker",
+      "Vanessa Loring",
+      "Mark Loring",
+      "Bren MacGuff"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Juno.txt",
+    "positive": 0.21082419525999294,
+    "anger": 0.054120976299964624,
+    "fear": 0.06579412805093739,
+    "negative": 0.14432260346657233,
+    "anticipation": 0.0962150689777149,
+    "joy": 0.11708524938096923,
+    "surprise": 0.054474708171206226,
+    "trust": 0.1262822780332508,
+    "sadness": 0.07180756986204458,
+    "disgust": 0.05907322249734701
+  },
+  {
+    "title": "Kalifornia\u00a0(1993) ",
+    "imdb_id": "tt0107302",
+    "character_name_list": [
+      "Early Grayce",
+      "Teenage Girl",
+      "Driver",
+      "Brian Kessler",
+      "Peter"
+    ],
+    "genres": [
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Kalifornia.txt",
+    "anger": 0.0846533367956375,
+    "disgust": 0.06206180212931706,
+    "fear": 0.10179174240457024,
+    "negative": 0.18151129576733316,
+    "sadness": 0.08621137366917683,
+    "surprise": 0.057647364320955595,
+    "anticipation": 0.07738249805245391,
+    "positive": 0.17008569202804466,
+    "joy": 0.07452609711763178,
+    "trust": 0.10412879771487925
+  },
+  {
+    "title": "Kate & Leopold\u00a0(2001) ",
+    "imdb_id": "tt0035423",
+    "character_name_list": [
+      "Kate McKay",
+      "Leopold",
+      "Stuart Besser",
+      "Charlie McKay",
+      "Darci"
+    ],
+    "genres": [
+      " Comedy",
+      " Fantasy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Kate%20And%20Leopold.txt"
+  },
+  {
+    "title": "The Ladykillers\u00a0(2004) ",
+    "imdb_id": "tt0335245",
+    "character_name_list": [
+      "Professor G.H. Dorr",
+      "Marva Munson",
+      "Gawain MacSam",
+      "Garth Pancake",
+      "The General"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Ladykillers,%20The%20(2004).txt"
+  },
+  {
+    "title": "The Last Temptation of Christ\u00a0(1988) ",
+    "imdb_id": "tt0095497",
+    "character_name_list": [
+      "Jesus",
+      "Judas",
+      "Zealot",
+      "Centurian",
+      "Mary, Mother of Jesus"
+    ],
+    "genres": [
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Last%20Temptation%20Of%20Christ,%20The.txt"
+  },
+  {
+    "title": "Legally Blonde\u00a0(2001) ",
+    "imdb_id": "tt0250494",
+    "character_name_list": [
+      "Elle Woods",
+      "Emmett",
+      "Vivian Kensington",
+      "Warner",
+      "Professor Callahan"
+    ],
+    "genres": [
+      " Comedy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Legally%20Blonde.txt",
+    "joy": 0.09441656210790464,
+    "positive": 0.20075282308657466,
+    "disgust": 0.04799247176913425,
+    "trust": 0.1329987452948557,
+    "anticipation": 0.10100376411543287,
+    "surprise": 0.06053952321204517,
+    "negative": 0.14146800501882056,
+    "anger": 0.06838143036386449,
+    "fear": 0.08155583437892096,
+    "sadness": 0.07089084065244668
+  },
+  {
+    "title": "Life\u00a0(1999) ",
+    "imdb_id": "tt0123964",
+    "character_name_list": [
+      "Rayford Gibson",
+      "Claude Banks",
+      "Willie Long",
+      "Sergeant Dillard",
+      "Cookie"
+    ],
+    "genres": [
+      " Comedy",
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Life.txt",
+    "anger": 0.08582659969425639,
+    "disgust": 0.05394190871369295,
+    "fear": 0.08648176457741866,
+    "negative": 0.15461891242629394,
+    "anticipation": 0.11203319502074689,
+    "joy": 0.08735531775496834,
+    "positive": 0.17689451845381088,
+    "surprise": 0.0576545097182791,
+    "trust": 0.11421707796462109,
+    "sadness": 0.07097619567591178
+  },
+  {
+    "title": "The Life of David Gale\u00a0(2003) ",
+    "imdb_id": "tt0289992",
+    "character_name_list": [
+      "Bitsey Bloom",
+      "Barbara Kreuster",
+      "Reporter A.J. Roberts",
+      "David Gale",
+      "Constance Harraway"
+    ],
+    "genres": [
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Life.txt",
+    "anger": 0.08582659969425639,
+    "disgust": 0.05394190871369295,
+    "fear": 0.08648176457741866,
+    "negative": 0.15461891242629394,
+    "anticipation": 0.11203319502074689,
+    "joy": 0.08735531775496834,
+    "positive": 0.17689451845381088,
+    "surprise": 0.0576545097182791,
+    "trust": 0.11421707796462109,
+    "sadness": 0.07097619567591178
+  },
+  {
+    "title": "Light Sleeper\u00a0(1992) ",
+    "imdb_id": "tt0102307",
+    "character_name_list": [
+      "John LeTour",
+      "Ann",
+      "Marianne Jost",
+      "Robert",
+      "Teresa Aranow"
+    ],
+    "genres": [
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Light%20Sleeper.txt",
+    "trust": 0.09803149606299212,
+    "disgust": 0.04015748031496063,
+    "negative": 0.16062992125984252,
+    "positive": 0.14960629921259844,
+    "anger": 0.08267716535433071,
+    "fear": 0.09685039370078741,
+    "anticipation": 0.1094488188976378,
+    "sadness": 0.10236220472440945,
+    "joy": 0.08385826771653543,
+    "surprise": 0.07637795275590552
+  },
+  {
+    "title": "Living in Oblivion\u00a0(1995) ",
+    "imdb_id": "tt0113677",
+    "character_name_list": [
+      "Nick Reve",
+      "Nicole Springer",
+      "Wolf",
+      "Wanda",
+      "Chad Palomino"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Living%20In%20Oblivion.txt",
+    "fear": 0.0725050916496945,
+    "negative": 0.15845213849287168,
+    "sadness": 0.0859470468431772,
+    "positive": 0.2020366598778004,
+    "anger": 0.06639511201629328,
+    "disgust": 0.04032586558044807,
+    "anticipation": 0.11160896130346232,
+    "joy": 0.08472505091649694,
+    "surprise": 0.07494908350305499,
+    "trust": 0.10305498981670061
+  },
+  {
+    "title": "The Long Kiss Goodnight\u00a0(1996) ",
+    "imdb_id": "tt0116908",
+    "character_name_list": [
+      "Samantha Caine (Charly)",
+      "Mitch Henessey",
+      "Caitlin",
+      "Timothy",
+      "Hal"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Long%20Kiss%20Goodnight,%20The.txt"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King\u00a0(2003) ",
+    "imdb_id": "tt0167260",
+    "character_name_list": [
+      "Everard Proudfoot",
+      "Elanor Gamgee",
+      "Sam",
+      "Gondorian Soldier 3",
+      "Madril"
+    ],
+    "genres": [
+      " Action",
+      " Adventure",
+      " Drama",
+      " Fantasy"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/TLOTR%20-%20The%20Return%20Of%20The%20King.txt",
+    "anticipation": 0.09628697293895531,
+    "disgust": 0.05884203901825047,
+    "fear": 0.12020138451856513,
+    "joy": 0.06104468219005664,
+    "negative": 0.19320327249842667,
+    "positive": 0.1472624292007552,
+    "sadness": 0.09408432976714914,
+    "surprise": 0.06135934550031466,
+    "trust": 0.0868470736312146,
+    "anger": 0.08086847073631215
+  },
+  {
+    "title": "Lost Highway\u00a0(1997) ",
+    "imdb_id": "tt0116922",
+    "character_name_list": [
+      "Fred Madison",
+      "Renee Madison",
+      "Al",
+      "Ed",
+      "Party Girl"
+    ],
+    "genres": [
+      " Mystery",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Lost+Highway.txt",
+    "joy": 0.06618705035971223,
+    "positive": 0.1629496402877698,
+    "trust": 0.08273381294964029,
+    "anger": 0.08920863309352518,
+    "disgust": 0.05755395683453238,
+    "fear": 0.11618705035971223,
+    "negative": 0.1881294964028777,
+    "sadness": 0.09496402877697842,
+    "anticipation": 0.08525179856115107,
+    "surprise": 0.05683453237410072
+  },
+  {
+    "title": "Made for Each Other\u00a0(1939) ",
+    "imdb_id": "tt0031602",
+    "character_name_list": [
+      "Jane Mason",
+      "John Horace Mason",
+      "Judge Joseph M. Doolittle",
+      "Mrs. Harriet Mason",
+      "Conway"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Made%20For%20Each%20Other%20(1939).txt"
+  },
+  {
+    "title": "Major League\u00a0(1989) ",
+    "imdb_id": "tt0097815",
+    "character_name_list": [
+      "Jake Taylor",
+      "Ricky Vaughn",
+      "Roger Dorn",
+      "Rachel Phelps",
+      "Lou Brown"
+    ],
+    "genres": [
+      " Comedy",
+      " Sport"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Major%20League.txt",
+    "negative": 0.17498440424204617,
+    "sadness": 0.08484092326887087,
+    "trust": 0.11010605115408609,
+    "positive": 0.1784154709918902,
+    "anticipation": 0.10355583281347473,
+    "joy": 0.07236431690580163,
+    "surprise": 0.06144728633811603,
+    "fear": 0.08671241422333126,
+    "anger": 0.0801621958827199,
+    "disgust": 0.047411104179663134
+  },
+  {
+    "title": "Man on Fire\u00a0(2004) ",
+    "imdb_id": "tt0328107",
+    "character_name_list": [
+      "John W. Creasy",
+      "Lupita Ramos",
+      "Lisa Ramos",
+      "Paul Rayburn",
+      "Samuel Ramos"
+    ],
+    "genres": [
+      " Action",
+      " Crime",
+      " Drama",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Man+On+Fire.txt",
+    "anticipation": 0.09344818585225789,
+    "joy": 0.07491516575306709,
+    "positive": 0.18741842860871835,
+    "surprise": 0.05377186113286348,
+    "trust": 0.12790394152962672,
+    "fear": 0.10232315322370138,
+    "negative": 0.16183764030279302,
+    "anger": 0.0772644218219786,
+    "disgust": 0.04150352388410337,
+    "sadness": 0.0796136778908901
+  },
+  {
+    "title": "Marty\u00a0(1955) ",
+    "imdb_id": "tt0048356",
+    "character_name_list": [
+      "Marty Piletti",
+      "Clara Snyder",
+      "Teresa Piletti",
+      "Aunt Catherine",
+      "Angie"
+    ],
+    "genres": [
+      " Drama",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Marty.txt",
+    "positive": 0.17779868297271872,
+    "anticipation": 0.11006585136406397,
+    "anger": 0.05299466917529006,
+    "disgust": 0.04797742238946378,
+    "fear": 0.08592035120727501,
+    "negative": 0.1599247412982126,
+    "sadness": 0.10159924741298212,
+    "joy": 0.09971777986829727,
+    "surprise": 0.04797742238946378,
+    "trust": 0.11602383192223267
+  },
+  {
+    "title": "Men in Black\u00a0(1997) ",
+    "imdb_id": "tt0119654",
+    "character_name_list": [
+      "Kay",
+      "Jay",
+      "Laurel",
+      "Edgar",
+      "Zed"
+    ],
+    "genres": [
+      " Action",
+      " Adventure",
+      " Comedy",
+      " Sci-Fi"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Men+In+Black.txt",
+    "anger": 0.07690075449796865,
+    "disgust": 0.0713871154962275,
+    "fear": 0.12420197330237957,
+    "negative": 0.19704004643064424,
+    "sadness": 0.07573998839233895,
+    "positive": 0.16918165989553105,
+    "joy": 0.053395240858966915,
+    "trust": 0.09692396982008125,
+    "anticipation": 0.08995937318630295,
+    "surprise": 0.04526987811955891
+  },
+  {
+    "title": "Midnight Run\u00a0(1988) ",
+    "imdb_id": "tt0095631",
+    "character_name_list": [
+      "Jack Walsh",
+      "Jonathan Mardukas",
+      "Alonzo Mosely",
+      "Marvin Dorfler",
+      "Jimmy Serrano"
+    ],
+    "genres": [
+      " Action",
+      " Comedy",
+      " Crime",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Midnight%20Run.txt"
+  },
+  {
+    "title": "Mission to Mars\u00a0(2000) ",
+    "imdb_id": "tt0183523",
+    "character_name_list": [
+      "Jim McConnell",
+      "Woody Blake",
+      "Luke Graham",
+      "Terri Fisher",
+      "Phil Ohlmyer"
+    ],
+    "genres": [
+      " Adventure",
+      " Sci-Fi",
+      " Thriller"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Mission%20To%20Mars.txt",
+    "positive": 0.19555555555555557,
+    "anticipation": 0.11333333333333333,
+    "joy": 0.07844444444444444,
+    "trust": 0.10666666666666667,
+    "negative": 0.16533333333333333,
+    "anger": 0.064,
+    "surprise": 0.06555555555555556,
+    "sadness": 0.07355555555555555,
+    "fear": 0.09666666666666666,
+    "disgust": 0.04088888888888889
+  },
+  {
+    "title": "Mobsters\u00a0(1991) ",
+    "imdb_id": "tt0102460",
+    "character_name_list": [
+      "Charlie 'Lucky' Luciano",
+      "Joey",
+      "Frank Costello",
+      "Bugsy Siegel",
+      "Crapshooter"
+    ],
+    "genres": [
+      " Crime",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Mobsters.txt",
+    "negative": 0.18695073235685752,
+    "sadness": 0.07616511318242343,
+    "positive": 0.16165113182423435,
+    "anger": 0.08069241011984021,
+    "disgust": 0.057789613848202394,
+    "fear": 0.10199733688415447,
+    "anticipation": 0.09187749667110519,
+    "joy": 0.07243675099866845,
+    "trust": 0.11105193075898802,
+    "surprise": 0.05938748335552597
+  },
+  {
+    "title": "Mr. Blandings Builds His Dream House\u00a0(1948) ",
+    "imdb_id": "tt0040613",
+    "character_name_list": [
+      "Jim Blandings",
+      "Muriel Blandings",
+      "Bill Cole",
+      "Simms",
+      "Joan Blandings"
+    ],
+    "genres": [
+      " Comedy",
+      " Romance"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Mr.%20Blandings%20Builds%20His%20Dream%20House.txt",
+    "positive": 0.22482014388489208,
+    "trust": 0.12410071942446044,
+    "anticipation": 0.10371702637889688,
+    "fear": 0.06744604316546762,
+    "joy": 0.08752997601918465,
+    "surprise": 0.07224220623501199,
+    "negative": 0.14658273381294964,
+    "disgust": 0.041666666666666664,
+    "anger": 0.05635491606714628,
+    "sadness": 0.07553956834532374
+  },
+  {
+    "title": "Mumford\u00a0(1999) ",
+    "imdb_id": "tt0140397",
+    "character_name_list": [
+      "Mumford",
+      "Sofie Crisp",
+      "Skip Skipperton",
+      "Lily",
+      "Althea Brockett"
+    ],
+    "genres": [
+      " Comedy",
+      " Drama"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Mumford.txt",
+    "trust": 0.11907043603258266,
+    "negative": 0.14877815045519885,
+    "sadness": 0.07810253953042645,
+    "anticipation": 0.1142788691902252,
+    "positive": 0.19070436032582655,
+    "anger": 0.06756109247724006,
+    "joy": 0.08672735984666986,
+    "surprise": 0.0637278390033541,
+    "fear": 0.07666506947771921,
+    "disgust": 0.054384283660757066
+  },
+  {
+    "title": "The Mummy\u00a0(1999) ",
+    "imdb_id": "tt0120616",
+    "character_name_list": [
+      "Rick O'Connell",
+      "Evelyn Carnahan",
+      "Jonathan Carnahan",
+      "Imhotep",
+      "Beni Gabor"
+    ],
+    "genres": [
+      " Action",
+      " Adventure",
+      " Fantasy"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Mummy,+The.txt",
+    "negative": 0.2047244094488189,
+    "positive": 0.12726111938710363,
+    "anticipation": 0.07618642264311555,
+    "joy": 0.05618216641838689,
+    "surprise": 0.059374334964886144,
+    "trust": 0.0859757395190466,
+    "anger": 0.09448818897637795,
+    "disgust": 0.07235582038731644,
+    "fear": 0.13215577782506915,
+    "sadness": 0.0912960204298787
+  },
+  {
+    "title": "Music of the Heart\u00a0(1999) ",
+    "imdb_id": "tt0166943",
+    "character_name_list": [
+      "Roberta",
+      "Assunta",
+      "Lexi at 5",
+      "Nick at 7",
+      "Supervisor"
+    ],
+    "genres": [
+      " Drama",
+      " Music"
+    ],
+    "screenplay_url": "https://www.dailyscript.com/scripts/Music%20Of%20The%20Heart.txt",
+    "positive": 0.2138175860185691,
+    "fear": 0.07127252867285637,
+    "trust": 0.11769524849808848,
+    "joy": 0.10677225559803386,
+    "sadness": 0.08656471873293282,
+    "anticipation": 0.12124522119060623,
+    "surprise": 0.05379574003276898,
+    "negative": 0.13462588749317314,
+    "anger": 0.05324959038776625,
+    "disgust": 0.0409612233752048
+  }
+]
